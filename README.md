@@ -35,3 +35,21 @@ track down and update every single usage.
 <p class='util--hide'>View <a href='https://learn.co/lessons/displaying-associations-rails-lab'>Displaying Associations Data Lab</a> on Learn.co and start learning to code for free.</p>
 
 [demeter]: https://en.wikipedia.org/wiki/Law_of_Demeter
+
+
+# artists
+  - [ ] links to the artist's songs by title (FAILED - 1)
+  - [ ] lists all of the artist's songs (FAILED - 2)
+  - [ ] lists the artists (FAILED - 3)
+  - [ ] shows the song count for each artist (FAILED - 4)
+
+# songs
+  - [ ] lists songs in 'Artist Name - Song Title' format (FAILED - 5)
+  - [ ] links to the artist (FAILED - 6)
+
+# Artist
+  - [ ] counts the songs (FAILED - 7)
+
+
+# Song
+  - [ ] gets the artist name (FAILED - 8)
